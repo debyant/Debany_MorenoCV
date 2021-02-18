@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+git init
+git add
+git commit -m "Hey, Soy Abigail Moreno"
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+git remote add origin http://github.com/debyant/Debany_MorenoCV.git
+git push origin master
+
+
